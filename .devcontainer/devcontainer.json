@@ -17,7 +17,8 @@
 			"extensions": [
 				"vscjava.vscode-java-debug",
 				"vscodevim.vim",
-				"vscjava.vscode-java-pack"
+				"vscjava.vscode-java-pack",
+				"esbenp.prettier-vscode"
 			]
 		}
 	}
